@@ -1,5 +1,5 @@
 # TEJAPI_Python_Medium_Application
-Medium 文章程式碼-Week6 & W
+Medium 文章程式碼-Week6 & Week13
 
 ## 主題：Python_大師策略
 程式內容說明<br>
