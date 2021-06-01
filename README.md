@@ -7,7 +7,7 @@ Week6：透過Python實作班傑明葛拉漢的投資策略並進行績效回測
 Medium文章連結：https://medium.com/tej-api-金融資料分析/實戰應用-一-證券分析之開山始祖一班傑明-葛拉漢的投資心法-221645c773aa<br>
 
 Week13：讓資料進入你的Line<br>
-Medium文章連結：<br>
+Medium文章連結：https://medium.com/tej-api-金融資料分析/實戰應用-二-當-tej-api遇上-line-199ed923115 <br>
 
 ## 備註
 資料庫使用：
