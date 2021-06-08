@@ -10,7 +10,7 @@ Week13：讓資料進入你的Line<br>
 Medium文章連結：https://medium.com/tej-api-金融資料分析/實戰應用-二-當-tej-api遇上-line-199ed923115 <br>
 
 Week14：透過Python實作班傑明羅傑．金的投資策略並進行績效回測 <br>
-Medium文章連結：<br>
+Medium文章連結：https://medium.com/tej-api-金融資料分析/實戰應用-三-羅傑-金-roger-e-king-的投資策略-f7cbc004bc4a<br>
 
 ## 備註
 資料庫使用：
