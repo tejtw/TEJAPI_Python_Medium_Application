@@ -1,5 +1,5 @@
 # TEJAPI_Python_Medium_Application
-Medium 文章程式碼-Week6 & Week13
+Medium 文章程式碼-Week6, 13, 14, 15
 
 ## 主題：Python_大師策略
 程式內容說明<br>
@@ -11,6 +11,10 @@ Medium文章連結：https://medium.com/tej-api-金融資料分析/實戰應用-
 
 Week14：透過Python實作班傑明羅傑．金的投資策略並進行績效回測 <br>
 Medium文章連結：https://medium.com/tej-api-金融資料分析/實戰應用-三-羅傑-金-roger-e-king-的投資策略-f7cbc004bc4a<br>
+
+
+Week15：透過Python實作三一投資管理公司價值型選股法則並進行績效回測 <br>
+Medium文章連結：<br>
 
 ## 備註
 資料庫使用：
