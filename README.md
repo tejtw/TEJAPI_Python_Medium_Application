@@ -16,6 +16,9 @@ Medium文章連結：https://medium.com/tej-api-金融資料分析/實戰應用-
 Week15：透過Python實作三一投資管理公司價值型選股法則並進行績效回測 <br>
 Medium文章連結：https://medium.com/tej-api-金融資料分析/實戰應用-三-三一投資管理公司-trinity-investment-management-價值型選股法則-bf13b041a059<br>
 
+NewWeek3: 模組化回測系統 <br>
+Medium文章連結: 尚未發布
+
 ## 備註
 資料庫使用：
 TEJ  IFRS以合併為主簡表(累計)-全產業(TWN/AIM1A)<br>
