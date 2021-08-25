@@ -23,7 +23,7 @@ Medium文章連結: https://medium.com/tej-api-%E9%87%91%E8%9E%8D%E8%B3%87%E6%96
 Medium文章連結: https://medium.com/tej-api-%E9%87%91%E8%9E%8D%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90/%E5%AF%A6%E6%88%B0%E6%87%89%E7%94%A8-%E4%BA%94-%E6%A8%A1%E7%B5%84%E5%8C%96%E5%9B%9E%E6%B8%AC%E7%B3%BB%E7%B5%B1-f7262d6acc6c <br>
 
 吉姆史萊特投資策略 <br>
-Medium文章連結: 稍後補上 <br>
+Medium文章連結: https://medium.com/tej-api-%E9%87%91%E8%9E%8D%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90/%E5%AF%A6%E6%88%B0%E6%87%89%E7%94%A8-%E4%B8%83-%E5%90%89%E5%A7%86-%E5%8F%B2%E8%90%8A%E7%89%B9-jim-slater-%E7%A5%96%E9%AD%AF%E5%8E%9F%E5%89%87%E6%8A%95%E8%B3%87%E6%B3%95-5de2c3c445c5 <br>
 
 ## 備註
 資料庫使用：
