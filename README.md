@@ -16,20 +16,26 @@ Medium文章連結：https://medium.com/tej-api-金融資料分析/實戰應用-
 Week15：透過Python實作三一投資管理公司價值型選股法則並進行績效回測 <br>
 Medium文章連結：https://medium.com/tej-api-金融資料分析/實戰應用-三-三一投資管理公司-trinity-investment-management-價值型選股法則-bf13b041a059<br>
 
-模組化回測系統 <br>
+【實戰應用(五)】模組化回測系統 <br>
 Medium文章連結: https://medium.com/tej-api-金融資料分析/實戰應用-五-模組化回測系統-f7262d6acc6c <br>
 
-巴菲特價值投資策略 <br>
+【實戰應用(六)】巴菲特價值投資策略 <br>
 Medium文章連結: https://medium.com/tej-api-金融資料分析/實戰應用-六-巴菲特價值投資策略-db9e958b0d4 <br>
 
-吉姆史萊特投資策略 <br>
+【實戰應用(七)】吉姆史萊特投資策略 <br>
 Medium文章連結: https://medium.com/tej-api-金融資料分析/實戰應用-七-吉姆-史萊特-jim-slater-祖魯原則投資法-5de2c3c445c5 <br>
 
-馬丁格爾策略 <br>
+【實戰應用(八)】馬丁格爾策略 <br>
 Medium文章連結: https://medium.com/tej-api-金融資料分析/實戰應用-八-馬丁格爾策略-424283ddafca <br>
 
 【實戰應用(九)】Brinson Model 績效歸因 <br>
 Medium文章連結: https://medium.com/tej-api-金融資料分析/實戰應用-九-brinson-model-績效歸因-2cbb5070cda7
+
+【實戰應用(十)】配對交易 <br>
+Medium文章連結: https://medium.com/tej-api-金融資料分析/實戰應用-十-配對交易-5eff5d9517bc
+
+【實戰應用(十一)】春節期間台股績效表現 <br>
+Medium文章連結: https://medium.com/tej-api-金融資料分析/實戰應用-十一-春節期間台股績效表現-b4d3258f59de
 
 ## 備註
 資料庫使用：
