@@ -40,6 +40,9 @@ Medium文章連結: https://medium.com/tej-api-金融資料分析/實戰應用-�
 【實戰應用(十二)】配對交易 <br>
 Medium文章連結: https://medium.com/tej-api-金融資料分析/實戰應用-十二-資金管理-69af8651494
 
+【實戰應用(十三)】量價篩選 <br>
+Medium文章連結: https://medium.com/tej-api-金融資料分析/實戰應用-十三-量價篩選-69af8651494
+
 ## 備註
 資料庫使用：
 TEJ  IFRS以合併為主簡表(累計)-全產業(TWN/AIM1A)<br>
